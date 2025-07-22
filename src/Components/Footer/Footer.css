@@ -1,0 +1,21 @@
+footer {
+    background-color: rgb(44, 62, 80);
+    padding: 40px;
+}
+
+footer .icon i {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    padding-top: 9px ;
+    cursor: pointer;
+    transition: 500ms;
+}
+footer .icon i:hover {
+    background-color: #fff;
+    color: black;
+}
+.copyright{
+    background-color: rgb(26, 37, 47);
+}
