@@ -16,7 +16,7 @@ export default function App() {
         { path: "about", element: <About /> },
         { path: "contact", element: <Contact /> },
         { path: "portfolio", element: <Portfolio /> },
-        { path: "startFramework", element: <StartFramework /> },
+        { path: "", element: <StartFramework /> },
       ],
     },
   ]);

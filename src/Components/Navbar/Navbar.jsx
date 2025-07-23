@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg sticky-top">
       <div className="container">
-        <NavLink className="navbar-brand fs-2 fw-bold text-uppercase" to="/startframework">
+        <NavLink className="navbar-brand fs-2 fw-bold text-uppercase" to="/">
           Start Framework
         </NavLink>
         <button
